@@ -13,17 +13,8 @@
     <description>AI-powered esports VOD review and strategy platform</description>
 
     <modules>
-        <module>services/user-service</module>
-        <module>services/vod-service</module>
-        <module>services/strategy-service</module>
-        <module>services/annotation-service</module>
-        <module>services/notification-service</module>
-        <module>services/ai-service</module>
-        <module>services/search-service</module>
-        <module>infrastructure/api-gateway</module>
-        <module>infrastructure/discovery-server</module>
-        <module>infrastructure/config-server</module>
-        <module>web-app</module>
+        <module>services</module>
+        <module>infrastructure</module>
     </modules>
 
     <properties>
