@@ -1,10 +1,10 @@
-package me.clutchlab.vodservice;
+package me.robert.clutchlab.videoservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class VodserviceApplicationTests {
+class VideoServiceApplicationTests {
 
     @Test
     void contextLoads() {
